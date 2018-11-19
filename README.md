@@ -5,6 +5,7 @@ Tech Lead University is a repository to group resources and learning paths to be
 ## Resources
 
 - [Awesome List of resources on leading people and being a manager](https://github.com/LappleApple/awesome-leading-and-managing)
+- [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86)
 - [A crash course on what to expect if I'm your tech lead](https://github.com/molly/manager-README)
 - [Resources for tech leads](https://github.com/PeterCookDev/TechLeading)
 - [What Does a Tech Lead Do?](https://dev.to/backendandbbq/what-does-a-tech-lead-do-1cpj)
