@@ -10,3 +10,7 @@ Tech Lead University is a repository to group resources and learning paths to be
 - [Resources for tech leads](https://github.com/PeterCookDev/TechLeading)
 - [What Does a Tech Lead Do?](https://dev.to/backendandbbq/what-does-a-tech-lead-do-1cpj)
 - [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead)
+
+## Podcasts
+
+- [Simple Leadership](http://simpleleadership.io/engineering-managing-and-leadership-with-camille-fournier/)
